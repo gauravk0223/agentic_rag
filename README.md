@@ -5,10 +5,10 @@
 ### Fetch and preprocess documents that will serve as the knowledge base for retrieval.
 
 
-# Indexing & Retriever Creation:
-## Index these documents for semantic search and set up a retriever tool that enables efficient, context-aware querying.
+## Indexing & Retriever Creation:
+### Index these documents for semantic search and set up a retriever tool that enables efficient, context-aware querying.
 
-# Agentic RAG System:
-## Build an agentic RAG system where the agent autonomously determines when to leverage the retriever tool versus when to generate a direct response, optimizing for both relevance and efficiency.
+## Agentic RAG System:
+### Build an agentic RAG system where the agent autonomously determines when to leverage the retriever tool versus when to generate a direct response, optimizing for both relevance and efficiency.
 
-# This approach enables more adaptive, contextually grounded, and user-centric LLM applications.
+### This approach enables more adaptive, contextually grounded, and user-centric LLM applications.
